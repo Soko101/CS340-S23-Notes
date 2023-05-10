@@ -115,3 +115,6 @@ However, finding the minimal set of changes that caused the problem can be a cha
 When dealing with a large number of test cases, it can be time-consuming to test each case individually using Git Bisect. In this case, we can use minimization techniques to identify a minimal set of test cases that reproduce the bug. One technique is to use a tool like Delta Debugging, which iteratively removes parts of a failing test case until the minimal set of parts that still reproduce the bug is found.
 
 In conclusion, Git Bisect is a powerful tool for identifying the commit that introduced a bug in a project. By using a binary search through the commit history, we can quickly identify the faulty commit and fix the bug. Additionally, by automating the process and minimizing test cases, we can save time and effort in the bug-fixing process.
+
+
+![A True Icon!](https://drive.google.com/file/d/1MDKcmBBsS14e6205UFVzBIuppkG57oAX/view?usp=share_link)
