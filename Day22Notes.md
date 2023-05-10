@@ -117,4 +117,4 @@ When dealing with a large number of test cases, it can be time-consuming to test
 In conclusion, Git Bisect is a powerful tool for identifying the commit that introduced a bug in a project. By using a binary search through the commit history, we can quickly identify the faulty commit and fix the bug. Additionally, by automating the process and minimizing test cases, we can save time and effort in the bug-fixing process.
 
 
-![A True Icon!](https://drive.google.com/file/d/1MDKcmBBsS14e6205UFVzBIuppkG57oAX/view?usp=share_link)
+![A True Icon!](https://drive.google.com/uc?id=1MDKcmBBsS14e6205UFVzBIuppkG57oAX)
